@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+}
+#container {
+    width: 80%;
+    margin: 0 auto;
+}
+#header {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+#nav {
+    float: left;
+    width: 20%;
+    background-color: #f2f2f2;
+    padding: 10px;
+}
+#nav a {
+    text-decoration: none;
+    color: red;
+}
+#content {
+    float: left;
+    width: 80%;
+    padding: 10px;
+}
+#footer {
+    background-color: gray;
+    color: white;
+    text-align: center;
+    clear: both;
+    padding: 10px;
+}
